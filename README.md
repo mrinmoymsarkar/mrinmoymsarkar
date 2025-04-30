@@ -1,21 +1,90 @@
-## 💫 About Me:
-# Mrinmoy Sarkar<br><br> Full Stack Engineer with frontend origins | Bengaluru, India<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinmoy-sarkar-6a828476/)<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msarkar07@live.in)<br><br> 👨‍💻 About Me<br><br>Full Stack Engineer specializing in performance optimization, UX improvement, and scalable solutions that enhance functionality and security in web applications. Currently working at Netskope as Senior Software Engineer, focusing on enterprise applications that improve operational efficiency.<br><br>  🛠️ Tech Stack<br><br> Languages<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)<br><br> Frontend<br>![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)<br>![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)<br>![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)<br><br>Backend<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br>![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)<br>![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)<br><br> Database & Cloud<br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)<br>![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)<br><br> Tools<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br><br>🏆 Achievements<br><br>- Enhanced application performance by 40%, improving user satisfaction by 25%<br>- Optimized SQL queries, reducing portal load times by 61%<br>- Developed scalable solutions that increased system efficiency by 50% and reduced annual costs by $100,000<br>- Led engineering team in successful project delivery with 76% increase in user adoption<br><br>## ## 🌱 Current Focus<br><br>Currently learning advanced microservice architectures and deepening my knowledge in system design patterns. Always open to collaborate on interesting projects that solve real-world problems.<br><br>---<br><br>*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+# 💫 Mrinmoy Sarkar
 
+> Full Stack Engineer with frontend origins | Bengaluru, India
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yomnirm_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrinmoy-sarkar-6a828476/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarkar.m.mrinmoy@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinmoy-sarkar-6a828476/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yomnirm_) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarkar.m.mrinmoy@gmail.com)
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrinmoymsarkar&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mrinmoymsarkar&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoymsarkar&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 👨‍💻 About Me
+
+Full Stack Engineer specializing in performance optimization, UX improvement, and scalable solutions that enhance functionality and security in web applications. Currently working at Netskope as Senior Software Engineer, focusing on enterprise applications that improve operational efficiency.
+
+## 💻 Tech Stack:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+## 🏆 Achievements
+
+
+- Enhanced application performance by 40%, improving user satisfaction by 25%
+- Optimized SQL queries, reducing portal load times by 61%
+- Developed scalable solutions that increased system efficiency by 50% and reduced annual costs by $100,000
+- Led engineering team in successful project delivery with 76% increase in user adoption
+
+
+
+## 💼 Work Experience
+
+### Senior Software Engineer | Netskope
+*Oct 2023 – Present | Bengaluru (Remote)*
+- Lead enterprise applications development that improves operational efficiency
+- Enhanced application performance by 40%, improving user satisfaction by 25%
+- Developed microfrontend architecture and microservices for better modularity and scalability
+- Strengthened security protocols for secure client onboarding and data protection
+
+### Full Stack Engineer | SG Analytics
+*Oct 2021 – Oct 2023 | Pune*
+- Led development of **Smart Portal** analytics tool for Viacom's social media channels
+- Optimized SQL queries, reducing portal load times by 61% and increasing user adoption
+- Managed end-to-end development process including requirement gathering and client communication
+- Developed scalable software solutions that increased system efficiency by 50% and reduced annual costs by $100,000
+- Led engineering team in successful project delivery with 76% increase in user adoption
+
+### Frontend Software Engineer | Cyphertree
+*Jul 2019 – Oct 2021 | Pune*
+- Spearheaded CRMS website development using Gatsby, React, GraphQL, and Strapi
+- Created and enhanced NGO digital platform using Vue and Node.js, improving efficiency by 30%
+- Implemented new features and resolved issues to meet organizational goals
+
+### Junior Frontend Developer | Techprimelab
+*Dec 2018 – Jun 2019 | Pune*
+- Designed comprehensive CRM system with client management and customer support features
+- Enhanced mobile application for teachers, parents, and staff to access school information
+
+### Cofounder & Frontend Developer | CurlyBraces
+*College Years*
+- Co-founded and built organization's homepage from ground up
+- Crafted custom websites for local businesses, dance academy, and college events
+
+## 🌱 Current Focus
+
+Currently learning advanced microservice architectures and deepening my knowledge in system design patterns. Always open to collaborate on interesting projects that solve real-world problems.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrinmoymsarkar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
