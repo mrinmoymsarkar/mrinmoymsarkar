@@ -1,6 +1,12 @@
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 # 💫 Mrinmoy Sarkar
 
-> Full Stack Engineer with frontend origins | Bengaluru, India
+<h2 align="center">Full Stack Engineer with frontend origins | Bengaluru, India</h2>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+
+[![](https://visitcount.itsvg.in/api?id=mrinmoymsarkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinmoy-sarkar-6a828476/) 
@@ -36,15 +42,13 @@ Full Stack Engineer specializing in performance optimization, UX improvement, an
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-## 🏆 Achievements
 
+## 🏆 Achievements
 
 - Enhanced application performance by 40%, improving user satisfaction by 25%
 - Optimized SQL queries, reducing portal load times by 61%
 - Developed scalable solutions that increased system efficiency by 50% and reduced annual costs by $100,000
 - Led engineering team in successful project delivery with 76% increase in user adoption
-
-
 
 ## 💼 Work Experience
 
@@ -82,6 +86,7 @@ Full Stack Engineer specializing in performance optimization, UX improvement, an
 ## 🌱 Current Focus
 
 Currently learning advanced microservice architectures and deepening my knowledge in system design patterns. Always open to collaborate on interesting projects that solve real-world problems.
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
