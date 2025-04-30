@@ -43,12 +43,6 @@ Full Stack Engineer specializing in performance optimization, UX improvement, an
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-## 🏆 Achievements
-
-- Enhanced application performance by 40%, improving user satisfaction by 25%
-- Optimized SQL queries, reducing portal load times by 61%
-- Developed scalable solutions that increased system efficiency by 50% and reduced annual costs by $100,000
-- Led engineering team in successful project delivery with 76% increase in user adoption
 
 ## 💼 Work Experience
 
